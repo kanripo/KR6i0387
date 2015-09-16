@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:49.160043
+#+DATE: 2015-08-30 20:17:50.361738
 #+TITLE: 佛說浴像功德經
 #+PROPERTY: CBETA_ID T16n0697
 #+PROPERTY: ID KR6i0387
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 697
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0387_T_000-0798c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0387_T_001-0798c> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.697[No.698]¶
-
- 《佛說浴像功德經》¶
+No. 697 [No. 698]¶
+《佛說浴像功德經》¶
 ¶
 大唐天竺三藏寶思惟譯¶
 
