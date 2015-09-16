@@ -1,0 +1,5 @@
+001-0798c26	TKD 11-0635b	buddhist/K-koreana/11-tif/0600-0699/11_0635_B.TIF
+001-0799a16	TKD 11-0635c	buddhist/K-koreana/11-tif/0600-0699/11_0635_C.TIF
+001-0799b10	TKD 11-0636a	buddhist/K-koreana/11-tif/0600-0699/11_0636_A.TIF
+001-0799a00	T 001-0799a	buddhist/T-taisho/T16/07/T16-0799.png
+001-0799b00	T 001-0799b	buddhist/T-taisho/T16/07/T16-0799.png
