@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說浴像功德經
+#+DATE: 2015-08-30 20:17:49.354776
+#+PROPERTY: JUAN 0
